@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\уля\documents\visual studio 2015\projects\проект11\проект11\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>33</COLUMN>
+    </SFA>
+    <DEFECTCODE>6287</DEFECTCODE>
+    <DESCRIPTION>Избыточный код:  левая и правая части выражения идентичны.</DESCRIPTION>
+    <FUNCTION>read</FUNCTION>
+    <DECORATED>?read@@$$FYAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
